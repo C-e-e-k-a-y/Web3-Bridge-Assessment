@@ -1,0 +1,9 @@
+body * {
+    display: block;
+    box-sizing: border-box;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
